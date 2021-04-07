@@ -1,8 +1,8 @@
 # About the project
 This project trys to detect plagiarism in text files given source files
 by using *PyTorch* deep learning framework. 
-It results from Udacity Machine Learning Engineering [Nanodegree program]
-(https://github.com/udacity/ML_SageMaker_Studies/tree/master/Project_Plagiarism_Detection).
+It results from Udacity Machine Learning Engineering 
+[Nanodegree program](https://github.com/udacity/ML_SageMaker_Studies/tree/master/Project_Plagiarism_Detection).
 
 ## Setup Instructions
 
